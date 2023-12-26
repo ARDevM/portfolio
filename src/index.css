@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.light-section {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark-section {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  /* Add styles for toggling the theme */
+  .dark-mode-button {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  .light-mode-button {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+ 
